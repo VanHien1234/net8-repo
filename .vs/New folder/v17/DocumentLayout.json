@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|c:\\users\\hiennv59\\desktop\\plat-asp\\net8-edu\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|c:\\users\\hiennv59\\desktop\\plat-asp\\net8-edu\\api\\data\\fluentapi\\commentfluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|solutionrelative:api\\data\\fluentapi\\commentfluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|c:\\users\\hiennv59\\desktop\\plat-asp\\net8-edu\\api\\data\\fluentapi\\stockfluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|solutionrelative:api\\data\\fluentapi\\stockfluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|c:\\users\\hiennv59\\desktop\\plat-asp\\net8-edu\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0E99A65-9A42-4336-91CB-49BBF3DE5711}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentFluentAPI.cs",
+              "DocumentMoniker": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\Data\\FluentAPI\\CommentFluentAPI.cs",
+              "RelativeDocumentMoniker": "api\\Data\\FluentAPI\\CommentFluentAPI.cs",
+              "ToolTip": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\Data\\FluentAPI\\CommentFluentAPI.cs",
+              "RelativeToolTip": "api\\Data\\FluentAPI\\CommentFluentAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:19:13.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockFluentAPI.cs",
+              "DocumentMoniker": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\Data\\FluentAPI\\StockFluentAPI.cs",
+              "RelativeDocumentMoniker": "api\\Data\\FluentAPI\\StockFluentAPI.cs",
+              "ToolTip": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\Data\\FluentAPI\\StockFluentAPI.cs",
+              "RelativeToolTip": "api\\Data\\FluentAPI\\StockFluentAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:16:35.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T10:12:33.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\HienNV59\\Desktop\\plat-asp\\net8-edu\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:08:05.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
